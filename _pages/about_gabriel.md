@@ -1,4 +1,14 @@
+I'm a computer scientist focused on scalable AI systems. I started my career building distributed services for major broadcasting networks like NPR, XM, FranceTV, ABC, and CBC, helping them collaborate across locations.
 
+I got into AI during grad school at MIT CSAIL, where I built interactive tools using natural language for information access — things like automated lecture processing, Q&A systems, and software agents. I also interned at Google, which gave me a firsthand look at machine learning at scale.
+
+I've exited two startups: one in EdTech, where I created a training and assessment platform now integrated into Elsevier's Sherpath, a leading nursing education platform; and doc.ai (acquired by [Sharecare](https://www.sharecare.com/)), where I led the machine learning platform and solutions teams. There, I worked through the complexities of healthcare to build models serving 100 million members, and pushed forward edge computing and private ML — work that helped secure a $100 million contract from Anthem BCBS.
+
+After Sharecare, I consulted on AI strategy for large firms and startups. Most recently, I founded [Vivify](https://www.vivify.ai), a platform for creative education. We released three products: classes, pods for collaboration, and data annotation tools for AI labs. Vivify helped 2D art teachers scale their work without burnout using AI-powered tools — boosting student success by over 90%, increasing teacher income by 10x, and keeping learning going after live sessions ended.
+
+I'm now a Member of Technical Staff at [FutureHouse](https://www.futurehouse.org/).
+
+<!-- 
 Gabriel Zaccak is a seasoned computer scientist with a rich background in leading teams and implementing scalable AI technologies. His professional journey began with creating distributed services for major broadcasting networks like NPR, XM, FranceTV, ABC, and CBC, enhancing their ability to collaborate across various locations.
 
 Gabriel's foray into AI was catalyzed during his graduate studies at MIT CSAIL. Here, he immersed himself in the creation of innovative interactive tools leveraging natural language for seamless information access. His projects at the lab encompassed automated lecture processing, Q&A systems, and software agents. Additionally, his internship at Google offered him a firsthand glimpse into machine learning at a grand scale.
@@ -7,7 +17,7 @@ Gabriel has also successfully exited two startups: one in EdTech, where he creat
 
 Gabriel, after his time at Sharecare, has provided strategic AI consulting to both large firms and startups. Most recently, as the founder of [Vivify](https://www.vivify.ai), he launched a platform designed to transform creative education and released three products: classes, pods for collaboration, and data annotation tools for AI labs. Vivify connected creators and experts, helping 2D art teachers scale their work without burnout by using AI-powered tools. These tools boosted student success by over 90%, increased teacher income by 10x, and created a seamless learning experience that continued even after live sessions.
 
-Gabriel is now a Member of Technical Staff at [FutureHouse](https://www.futurehouse.org/).
+Gabriel is now a Member of Technical Staff at [FutureHouse](https://www.futurehouse.org/). -->
 
 <!-- Post Sharecare, Gabriel has been a strategic consultant for both large firms and startups, providing hands-on AI expertise. Currently, he is embarking on an exciting new venture, founding his startup, with more details to be revealed soon! -->
 
