@@ -16,26 +16,13 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+I'm a computer scientist focused on scalable AI systems. I started my career building distributed services for major broadcasting networks like NPR, XM, FranceTV, ABC, and CBC, helping teams collaborate across locations.
 
-I'm a computer scientist focused on scalable AI systems. I started my career building distributed services for major broadcasting networks like NPR, XM, FranceTV, ABC, and CBC, helping them collaborate across locations.
+I moved into AI during grad school at MIT CSAIL, where I built interactive natural language systems for information access, including lecture processing, Q&A systems, and software agents. I also interned at Google, where I got an early look at machine learning at scale.
 
-I got into AI during grad school at MIT CSAIL, where I built interactive tools using natural language for information access — things like automated lecture processing, Q&A systems, and software agents. I also interned at Google, which gave me a firsthand look at machine learning at scale.
+I've been part of two startup exits: one in EdTech, where I helped build a training and assessment platform now integrated into Elsevier's Sherpath, and doc.ai, which was acquired by [Sharecare](https://www.sharecare.com/). At doc.ai and Sharecare, I led machine learning platform and solutions teams, building systems that served more than 100 million members and advancing privacy-preserving and edge AI in healthcare.
 
-I've exited two startups: one in EdTech, where I created a training and assessment platform now integrated into Elsevier's Sherpath, a leading nursing education platform; and doc.ai (acquired by [Sharecare](https://www.sharecare.com/)), where I led the machine learning platform and solutions teams. There, I worked through the complexities of healthcare to build models serving 100 million members, and pushed forward edge computing and private ML — work that helped secure a $100 million contract from Anthem BCBS.
-
-After Sharecare, I consulted on AI strategy for large firms and startups. Most recently, I founded [Vivify](https://www.vivify.ai), a platform for creative education. We released three products: classes, pods for collaboration, and data annotation tools for AI labs. Vivify helped 2D art teachers scale their work without burnout using AI-powered tools — boosting student success by over 90%, increasing teacher income by 10x, and keeping learning going after live sessions ended.
-
-I'm now a Member of Technical Staff at [FutureHouse](https://www.futurehouse.org/).
-
-<!-- Gabriel Zaccak is a seasoned computer scientist with a rich background in leading teams and implementing scalable AI technologies. His professional journey began with creating distributed services for major broadcasting networks like NPR, XM, FranceTV, ABC, and CBC, enhancing their ability to collaborate across various locations.
-
-Gabriel's foray into AI was catalyzed during his graduate studies at MIT CSAIL. Here, he immersed himself in the creation of innovative interactive tools leveraging natural language for seamless information access. His projects at the lab encompassed automated lecture processing, Q&A systems, and software agents. Additionally, his internship at Google offered him a firsthand glimpse into machine learning at a grand scale.
-
-Gabriel has also successfully exited two startups: one in EdTech, where he created a training and assessment platform that has been integrated into Elsevier's Sherpath, a premier nursing education platform; and at doc.ai (acquired by [Sharecare](https://www.sharecare.com/)), where he spearheaded the machine learning platform and solutions teams. His leadership involved adeptly navigating the intricacies of the healthcare sector to develop models for big data, catering to 100 million members, and advancing edge computing and private machine learning, ultimately leading to securing a $100 million contract from Anthem BCBS.
-
-Gabriel, after his time at Sharecare, has provided strategic AI consulting to both large firms and startups. Most recently, as the founder of [Vivify](https://www.vivify.ai), he launched a platform designed to transform creative education and released three products: classes, pods for collaboration, and data annotation tools for AI labs. Vivify connected creators and experts, helping 2D art teachers scale their work without burnout by using AI-powered tools. These tools boosted student success by over 90%, increased teacher income by 10x, and created a seamless learning experience that continued even after live sessions.
-
-Gabriel is now a Member of Technical Staff at [FutureHouse](https://www.futurehouse.org/). -->
+Later, I advised startups and larger firms on AI strategy, product development, and deployment, and founded [Vivify](https://www.vivify.ai), an AI-powered platform for creative education. Today, I am a Member of Technical Staff at [Edison Scientific](https://edisonscientific.com/), where I help build the AI platform for science, developing agent-driven workflows that accelerate research and drug discovery.
 
 <!-- Now, as the founder of Vivify, he is launching a platform designed to transform creative education. Vivify connects creators and experts, helping 2D art teachers scale their work without burnout by using AI-powered tools. These tools boost student success by over 90%, increase teacher income by 10x, and create a seamless learning experience that continues even after live sessions. To learn more, visit [vivify.ai](https://www.vivify.ai). -->
 <!-- Post Sharecare, Gabriel has been a strategic consultant for both large firms and startups, providing hands-on AI expertise. Currently, he is embarking on an exciting new venture, founding his startup, with more details to be revealed soon! -->
